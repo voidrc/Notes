@@ -1,10 +1,3 @@
----
-title: Colored Teams
-description: A quick dive into the strategic roles played by different security teams.
-category: Introduction
-pubDate: 2025-06-15
-heroImage: ../../../assets/teams.png
----
 There are bunch of teams colored differently. Here are some of them.
 
 ## 1) Green Team

@@ -1,11 +1,3 @@
----
-title: Upgrading TTY
-description: From simple tty to functional Shell
-category: To-Sort
-pubDate: 2025-06-16
-heroImage: ../../../assets/reverse_shell.png
----
-
 Every pentester knows that amazing feeling when they catch a reverse shell with netcat and see that oh-so-satisfying verbose netcat message followed by output from `id`.
 
 And if other pentesters are like me, they also know that dreadful feeling when their shell is lost because they run a bad command that hangs and accidentally hit “Ctrl-C” thinking it will stop it but it instead kills the entire connection.

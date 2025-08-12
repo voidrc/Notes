@@ -1,11 +1,3 @@
----
-title: HoneyPot
-description: How to create HoneyPot
-category: To-Sort
-pubDate: 2025-06-16
-heroImage: ../../../assets/to-sort.jpg
----
-
 ## Summary
 
 A **honeypot** is a **deceptive system or service** set up to attract attackers. It mimics real targets but is **isolated and monitored**, allowing defenders to study attacks without risking real assets.

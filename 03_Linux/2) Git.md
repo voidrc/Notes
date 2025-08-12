@@ -1,11 +1,3 @@
----
-title: Git
-description: List of Git commands
-category: Linux
-pubDate: 2025-06-16
-heroImage: ../../../assets/git.png
----
-
 ## 🔍 Compare Branches
 
 ### 🔹 Code Differences

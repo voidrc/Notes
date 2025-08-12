@@ -1,10 +1,3 @@
----
-title: Python
-description: I hate snakes
-category: Scripting
-pubDate: 2025-07-20
-heroImage: ../../../assets/Python.jpg
----
 ## Intro
 Python is, as you know, popular programming language. It is used for:
 - Web Development (server-side)

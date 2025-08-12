@@ -1,11 +1,3 @@
----
-title: GPG Enscryption
-description: Setting up, Usage, and commands
-category: Linux
-pubDate: 2025-06-16
-heroImage: ../../../assets/gpg.jpg
----
-
 ### **Encrypt Like a Shadow**
 #### **1. Install GPG**
 ```bash

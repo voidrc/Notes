@@ -1,11 +1,3 @@
----
-title: 'SSH'
-description: 'How to use SSH service properly'
-category: Linux
-pubDate: 2025-06-16
-heroImage: '../../../assets/ssh.png'
----
-
 ### On Each Lab PC
 
 1. **Install the OpenSSH server**

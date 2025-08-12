@@ -1,10 +1,3 @@
----
-title: 'Addressing'
-description: 'IPv4/6, MAC addresses, Subnets'
-category: Networking
-pubDate: 2025-06-16
----
-
 ## Network Layer
 
 The **network layer (Layer 3)** of the **OSI model** manages the transmission of data packets, which cannot be sent directly to the recipient and therefore require intermediate routing through network nodes. These packets move from node to node until they reach their destination. To achieve this, the **network layer** identifies network nodes, establishes and terminates connections, and manages routing and data flow control. During transmission, it evaluates addresses and routes packets through the network accordingly. Typically, upper-layer data isn't processed by Layer 3 at each node. Routing decisions and routing table construction are based on address information.

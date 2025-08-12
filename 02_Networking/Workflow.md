@@ -1,10 +1,3 @@
----
-title: 'Workflow'
-description: 'All about models'
-category: Networking
-pubDate: 2025-06-16
----
-
 ## Networking Models
 
 Two networking models describe the communication and transfer of data from one host to another, called `ISO/OSI model` and the `TCP/IP model`. This is a simplified representation of the so-called `layers` representing transferred Bits in readable contents for us.

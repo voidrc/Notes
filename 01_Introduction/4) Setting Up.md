@@ -1,10 +1,3 @@
----
-title: Setting Up
-description: Before beginning any penetration testing engagement, it is essential to set up a reliable and efficient working environment.
-category: Introduction
-pubDate: 2025-07-08
-heroImage: ../../../assets/SettingUp.jpg
----
 A key factor in maintaining happiness and motivation is the quality of the working environment. Organizing your workspace to minimize fatigue is essential in any role. Below are some examples of how I have customized my own workspace to better suit my needs.
 
 ## **Operating System**

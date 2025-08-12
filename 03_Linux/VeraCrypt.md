@@ -1,9 +1,3 @@
-Excellent—let’s do this carefully and step by step.
-
-**Goal:** Create a VeraCrypt container (encrypted file volume) on your **external HDD** to store your logs securely.
-
----
-
 ## ⚡ Prerequisites
 
 ✅ VeraCrypt installed on Arch Linux.

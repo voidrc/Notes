@@ -1,11 +1,3 @@
----
-title: 'Partitioning'
-description: 'How to separate `/home` from rest of system?'
-category: Linux
-pubDate: 2025-06-16
-heroImage: '../../../assets/partition.png'
----
-
 ## Step 1: Mount the 1TB SSD
 
 - Prepare the 1TB SSD: You’ll need to format it with a filesystem like BTRFS.

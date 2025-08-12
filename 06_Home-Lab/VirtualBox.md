@@ -1,11 +1,3 @@
----
-title: VirtualBox
-description: Guide to properly install VirtualBox into Arch
-category: Home-Lab
-pubDate: 2025-06-16
-heroImage: ../../../assets/virtualbox.jpg
----
-
 ## **1. Install Required Packages**
 
 Ensure you have **ALL** VirtualBox components:

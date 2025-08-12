@@ -1,10 +1,3 @@
----
-title: 'Protocols'
-description: 'Network protocols and their functions'
-category: Networking
-pubDate: 2025-06-16
----
-
 ## Networking Key Terminology
 There are many different terms in the field of information technology. However, we only need to know some of them, only the essential ones. The number of programming languages, functions, protocols, different procedures, areas of application, details, and at the same time, the number of errors that can occur. All these areas are so large that you can specialize your entire career in 1-2 areas.
 
