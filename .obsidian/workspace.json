@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "f306d1f0ad5e2524",
+    "type": "split",
+    "children": [
+      {
+        "id": "d60bf8179e588958",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a753c1838a28482",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "54e47608e2c2a2c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "90da634b47f9d1e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70246de45ca11a6b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6e019922c102454a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "661113c4db389a0c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b8e10d0cee5a605c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0baebc54996fba95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43004a1c05d704f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "d81e58d0a6a2d370",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "4675c52fc8666fd0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b8c2a458f3e24cbd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7a753c1838a28482",
+  "lastOpenFiles": [
+    "_templates/5_Structure/Canvases/How to Use Links with Templates.canvas",
+    "_templates/5_Structure/Canvases/About - 5_Structure Notes.canvas",
+    "_templates/5_Structure/Canvases/About - 4_Project Notes.canvas",
+    "_templates/5_Structure/Canvases/About - 3_Permanent Notes.canvas",
+    "_templates/5_Structure/Canvases/About - 2_Literature Notes.canvas",
+    "_templates/5_Structure/Canvases/About - 1_Fleeting Notes.canvas",
+    "_templates/4_Project/Posts Zettelkasten/Post - Luhmann vs Digital Zettelkasten.md",
+    "_templates/4_Project/Obsidian Starter Kit/_MOC - Obsidian Starter Kit.md",
+    "_templates/4_Project/Obsidian Starter Kit/Project Log - Obsidian Starter Kit.md",
+    "_templates/4_Project/Obsidian Starter Kit/History - Obsidian Starter Kit.md",
+    "_templates/Visuals/zettelkasten_maturity_2024-11-18.png",
+    "_templates/Visuals/luhmann_vs_digital_2025-03-06.png",
+    "_templates/Visuals/banner_books.jpg",
+    "_templates/Visuals/Zettelkasten_usecase_model_2025-04-24.png",
+    "_templates/Visuals/Zettelkasten_models_2025-04-15.png",
+    "_templates/Visuals/Zettelkasten_mental-gym_2025-06-08.png",
+    "_templates/Visuals/Zettelkasten_history_2025-04-18.png",
+    "_templates/Visuals/Zettelkasten_System_Definition_D1_2025-04-03.png",
+    "_templates/Visuals/Zettelkasten_Ontology.png",
+    "_templates/Visuals/Zettelkasten_LitMap_2024-08-04.png",
+    "_templates/Templates/x_Front Matter Snippet.md",
+    "_templates/Templates/x_Dataview Table Snippet.md",
+    "_templates/Templates/x_Book Front Matter Snippet.md",
+    "_templates/Templates/x_Back Matter Snippet.md",
+    "_templates/Templates/5_Structure Template.md",
+    "_templates/Templates/5_OKR Template.md",
+    "_templates/Templates/5_Meeting Notes Template.md",
+    "_templates/Templates/5_BuJo - Weekly Log.md",
+    "_templates/Templates/5_BuJo - Monthly Log.md",
+    "_templates/Templates/5_BuJo - Future Log.md",
+    "_templates/Templates/5_BuJo - Daily Log.md",
+    "_templates/Templates/4_Post Template.md",
+    "_templates/Templates/4_E-book Template.md",
+    "_templates/Templates/4_E-book Back Matter Snippet.md",
+    "_templates/Templates/3_Question Template.md",
+    "_templates/Templates/3_Prompt Template.md",
+    "_templates/Templates/3_Note Template.md",
+    "_templates/Templates/2_Tool Template.md",
+    "_templates/Templates/2_Term Template.md",
+    "_templates/Templates/2_Recipe Template.md",
+    "_templates/Templates/2_Quote Template.md",
+    "_templates/Assets/make_useful_notes_v0-18-0_2023-07-24.pdf",
+    "_templates/Assets/Zettelkasten_System_Definition_D1_2025-04-03.pdf",
+    "_templates/Assets/Zettelkasten_LitMap_2024-08-04.pdf",
+    "_templates/Assets/Zettelkasten_Class_Diagram_2025-04-26.pdf",
+    "_templates/Assets/The_Extended_Mind_2024-08-11.pdf",
+    "_templates/5_Structure/Canvases",
+    "_templates/4_Project/Posts Zettelkasten",
+    "_templates/4_Project/Obsidian Starter Kit",
+    "_templates/Visuals",
+    "_templates/Templates"
+  ]
+}
